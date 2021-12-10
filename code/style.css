@@ -106,4 +106,20 @@ body {
 
 header {
   text-align: center;
+  background-color: #92140c;
+}
+header img {
+  width: 250px;
+}
+
+.éléments {
+  float: left;
+  height: 270px;
+  width: 25%;
+}
+.éléments h3 {
+  text-align: center;
+  background-color: #9bc848;
+  color: #fff;
+  margin-block-end: 0em;
 }
